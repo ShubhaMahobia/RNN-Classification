@@ -42,8 +42,9 @@ This project is hosted on - https://rnn-classification-4qyd35scpyeq4u9xjycxmd.st
 
 **Model Used:** RNN - Recurrent Neural Network
 
-**Dataset Used:** IMDB Dataset  ## Feedback
+**Dataset Used:** IMDB Dataset  
 
+## Feedback
 If you have any feedback or just to say Hi!, please reach out to me at mahobiashubham4@gmail.com
 ## Authors
 
